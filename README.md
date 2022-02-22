@@ -10,15 +10,8 @@
 이 게임은  Graemcc에서 만든 시뮬레이션 micropolisJS 소스를 사용합니다. ES6로 완전 변환됩니다.<br>
 여기가 주소 입니다. [https://github.com/graememcc/micropolisJS](https://github.com/graememcc/micropolisJS)<br>
 게임 시뮬레이션은 web worker 들에게 작동합니다.
+진행 중인 작업은...<br>
 
-
-
-
-
-
-<br>
-<br>
-진행 중인 작업은...
 <a target='_blank' href='http://lo-th.github.io/3d.city/index.html'><img src="http://lo-th.github.io/3d.city/assets/img/preview01.jpg"/></a><br>
 <a target='_blank' href='http://lo-th.github.io/3d.city/index.html'><img src="http://lo-th.github.io/3d.city/assets/img/preview02.jpg"/></a><br>
 <a target='_blank' href='http://lo-th.github.io/3d.city/index.html'><img src="http://lo-th.github.io/3d.city/assets/img/preview03.jpg"/></a><br>
